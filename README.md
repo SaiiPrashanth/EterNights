@@ -1,5 +1,7 @@
 # EterNights
 
+![Gameplay](Screenshots/EterNight_extra.gif)
+
 **EterNights** is an open-world Souls-like adventure game developed in **Unreal Engine 5** using **C++**.
 
 ## Overview
